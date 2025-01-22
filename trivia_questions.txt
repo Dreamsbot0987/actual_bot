@@ -1,0 +1,57 @@
+What is the capital of France?|Paris,London,Berlin|Paris
+Which planet is known as the Red Planet?|Mars,Jupiter,Saturn|Mars
+Who wrote the play "Romeo and Juliet"?|William Shakespeare,Charles Dickens,Jane Austen|William Shakespeare
+In which year did the Titanic sink?|1912,1905,1898|1912
+What is the largest mammal on Earth?|Blue Whale,Elephant,Giraffe|Blue Whale
+Which country is famous for the Eiffel Tower?|France,Italy,Germany|France
+What is the hardest natural substance on Earth?|Diamond,Gold,Iron|Diamond
+Who painted the Mona Lisa?|Leonardo da Vinci,Van Gogh,Picasso|Leonardo da Vinci
+Which ocean is the largest in the world?|Pacific Ocean,Atlantic Ocean,Indian Ocean|Pacific Ocean
+What is the smallest country in the world?|Vatican City,Monaco,San Marino|Vatican City
+Who is the founder of Microsoft?|Bill Gates,Steve Jobs,Mark Zuckerberg|Bill Gates
+What is the longest river in the world?|Nile River,Amazon River,Mississippi River|Nile River
+What is the largest island in the world?|Greenland,Australia,Borneo|Greenland
+What is the official language of Brazil?|Portuguese,Spanish,French|Portuguese
+Which animal is known as the "King of the Jungle"?|Lion,Tiger,Elephant|Lion
+What is the symbol for gold on the periodic table?|Au,Ag,Cu|Au
+What year did the first man land on the moon?|1969,1972,1965|1969
+Who wrote the novel "1984"?|George Orwell,Aldous Huxley,Mark Twain|George Orwell
+Which city hosted the 2016 Summer Olympics?|Rio de Janeiro,London,Beijing|Rio de Janeiro
+What is the capital of Japan?|Tokyo,Seoul,Bangkok|Tokyo
+Which element has the chemical symbol "O"?|Oxygen,Nitrogen,Hydrogen|Oxygen
+Who was the first president of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+What is the tallest mountain in the world?|Mount Everest,K2,Mount Kilimanjaro|Mount Everest
+Which animal is known for its black and white stripes?|Zebra,Giraffe,Lemur|Zebra
+What is the name of the ship that carried the Pilgrims to America in 1620?|Mayflower,Freedom,Discovery|Mayflower
+Which continent is the Sahara Desert located on?|Africa,Asia,Australia|Africa
+What is the largest desert in the world?|Sahara Desert,Gobi Desert,Arctic Desert|Sahara Desert
+Who was the first woman to win a Nobel Prize?|Marie Curie,Rosalind Franklin,Albert Einstein|Marie Curie
+What is the tallest building in the world?|Burj Khalifa,Empire State Building,Eiffel Tower|Burj Khalifa
+In which city can you find the Colosseum?|Rome,Paris,New York|Rome
+What is the largest continent by land area?|Asia,Africa,North America|Asia
+Who painted the Sistine Chapel ceiling?|Michelangelo,Leonardo da Vinci,Donatello|Michelangelo
+What is the longest river in the United States?|Mississippi River,Colorado River,Ohio River|Mississippi River
+Who invented the telephone?|Alexander Graham Bell,Thomas Edison,Nikola Tesla|Alexander Graham Bell
+Which country has the largest population in the world?|China,India,United States|China
+What is the largest planet in our solar system?|Jupiter,Saturn,Uranus|Jupiter
+What is the capital of Canada?|Ottawa,Montreal,Toronto|Ottawa
+Which element has the chemical symbol "Na"?|Sodium,Nickel,Neon|Sodium
+Who is known as the "Father of Modern Physics"?|Albert Einstein,Isaac Newton,Nikola Tesla|Albert Einstein
+What is the smallest bone in the human body?|Stapes,Scaphoid,Femur|Stapes
+Which ocean is the second-largest in the world?|Atlantic Ocean,Indian Ocean,Arctic Ocean|Atlantic Ocean
+In which year did World War I begin?|1914,1912,1939|1914
+What is the currency of Japan?|Yen,Won,Peso|Yen
+Which country is known as the Land of the Rising Sun?|Japan,China,South Korea|Japan
+What is the capital of Australia?|Canberra,Sydney,Melbourne|Canberra
+What is the main ingredient in guacamole?|Avocado,Tomato,Onion|Avocado
+Who discovered penicillin?|Alexander Fleming,Louis Pasteur,Marie Curie|Alexander Fleming
+Which planet is closest to the sun?|Mercury,Venus,Earth|Mercury
+Who was the famous civil rights leader who gave the "I Have a Dream" speech?|Martin Luther King Jr.,Malcolm X,Frederick Douglass|Martin Luther King Jr.
+Which element has the atomic number 1?|Hydrogen,Helium,Lithium|Hydrogen
+What is the name of the largest volcano on Earth?|Mauna Loa,Mount St. Helens,Mount Fuji|Mauna Loa
+In what year did World War II end?|1945,1944,1950|1945
+What is the capital of the United Kingdom?|London,Edinburgh,Dublin|London
+Who is the author of the "Harry Potter" series?|J.K. Rowling,George R.R. Martin,J.R.R. Tolkien|J.K. Rowling
+What is the name of the first artificial Earth satellite?|Sputnik 1,Explorer 1,Apocalypse 1|Sputnik 1
+Which instrument measures temperature?|Thermometer,Barometer,Micrometer|Thermometer
+Which animal is the symbol of the World Wildlife Fund (WWF)?|Panda,Elephant,Tiger|Panda
